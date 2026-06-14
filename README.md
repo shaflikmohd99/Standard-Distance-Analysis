@@ -1,8 +1,7 @@
-# Standard-Distance-Analysis
-One of spatial pattern analysis which is standard distance analysis. This tools measures a spatial dispersion (how spread out your data is around its center).
-
+# Spatial Pattern Analysis (Standard distance, Standard Deviational Ellipse and Mean Center)
 
 # GIS Spatial Statistics: Standard Distance Analysis
+One of spatial pattern analysis which is standard distance analysis. This tools measures a spatial dispersion (how spread out your data is around its center).
 
 This repository automates the calculation of **Standard Distance** for Sustainability Initiatives using the ArcGIS Spatial Statistics toolbox. 
 
