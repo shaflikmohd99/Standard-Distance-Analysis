@@ -5,7 +5,7 @@ One of spatial pattern analysis which is standard distance analysis. This tools 
 
 This repository automates the calculation of **Standard Distance** for Sustainability Initiatives using the ArcGIS Spatial Statistics toolbox. 
 
-While the Mean Center identifies the geographic center of a dataset, the Standard Distance polygon visualizes spatial **dispersion**—showing exactly how clustered or widespread the sustainability projects are around that central point.
+While the Mean Center identifies the geographic center of a dataset, the Standard Distance polygon visualizes spatial **dispersion** showing exactly how clustered or widespread the sustainability projects are around that central point.
 
 ## Tool Configuration
 The script utilizes the `StandardDistance_stats` tool with the following configurations:
